@@ -34,7 +34,7 @@ ruleTester.run('style-import-order', rule, {
         import TombRaider from 'app/games/tomb_raider';
       `,
       errors: [{
-        message: 'Styles should be imported last.',
+        message: '\'scooby.scss\' should be imported after \'TombRaider\'.',
         type: 'ImportDeclaration'
       }],
       parser: babelEslint
