@@ -37,15 +37,14 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "simon/rule-name": 2
+        "simon/style-import-order": 2
     }
 }
 ```
 
 ## Supported Rules
 
-* Fill in provided rules here
-
+- [style-import-order](docs/rules/style-import-order.md)
 
 
 

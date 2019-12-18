@@ -8,6 +8,10 @@
     "eslint-plugin"
   ],
   "author": "Scott Sarsfield (scott.m.sarsfield@gmail.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scott-m-sarsfield/eslint-plugin-simon.git"
+  },
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"
