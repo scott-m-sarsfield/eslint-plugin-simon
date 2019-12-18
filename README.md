@@ -2,6 +2,7 @@
 
 A loose collection of custom eslint rules borne out of convention (basically &#34;Simon says &#39;Fix your code.&#39;&#34;)
 
+![simon says](https://media.giphy.com/media/69m0jFfYMEU0DcwZ0J/giphy.gif)
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
